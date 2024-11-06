@@ -1,6 +1,6 @@
 import numpy as lt
 
-arr = lt.array([1, 2, 3, 4, 5,7])
+arr = lt.array([1, 2, 3, 4, 5,7,9])
 
 print(array)
 
