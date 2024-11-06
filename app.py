@@ -6,4 +6,4 @@ print(array)
 
 print(type(array))
 
-TANUJA
+TANUJA,ammu
